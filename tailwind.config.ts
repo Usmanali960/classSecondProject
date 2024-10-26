@@ -11,6 +11,11 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        backgroundColor:"#252B42",
+        mainColor:"#23A6F0",
+        Card: "#E74040",
+        cardLogoFirst: "#FFDCD1",
+        cardLogoSecond: "#B9EAA8"
       },
     },
   },
